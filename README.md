@@ -1,4 +1,4 @@
-# FedEye: Federated Learning for Multi Class Eye DiseaseClassification
+# FedEye: Federated Learning for Multi Class Eye Disease Classification
 In a real-world medical setting, performing accurate and robust medical disease classification requires a large amount of sensitive data. However, most medical institutes have strict rules and
 policies when it comes to sharing patient data with external parties. 
 
